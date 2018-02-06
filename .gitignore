@@ -17,3 +17,4 @@ yarn.lock
 /public/receipts
 /public/receipts/*
 .env.bkp
+/packages
